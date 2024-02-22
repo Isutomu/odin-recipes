@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+  background-color: burlywood;
+  border: 2px solid darkred;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 1%;
+}
