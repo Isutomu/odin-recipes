@@ -2,9 +2,13 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-div {
+.recipe-container {
+  width: 500px;
+  box-sizing: border-box;
   background-color: burlywood;
   border: 2px solid darkred;
+  margin: 0 auto;
+  padding: 10px 20px;
 }
 
 h1 {
